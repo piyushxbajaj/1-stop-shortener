@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Usage
 ### 1. Hindu News Article
 
-Enter the Hindu News Article Link in the respective input field and number of sentences of summarized text in respective input field.
+Enter the Hindu News Article Link in the respective input field and number of sentences required of summarized text in respective input field.
 
 Example
 ```
@@ -40,13 +40,19 @@ Number of Words : 300
 ```
 
 ### 3. Simple Text Paragraphs
+
+Enter the paragraphs of text to summarize in the respective text area field and number of sentences required of summarized text in respective input field.
+
+Example
 ```
 Text Area: Copy SampleData.txt into that text area
 Number of Sentences: 10
 ```
 
 ### 4. Youtube Videos
+Enter the Video id of Youtube video to summarize in the respective input field and number of sentences required of summarized text in respective input field.
 
+Example
 ```
 For Video https://www.youtube.com/watch?v=KR0g-1hnQPA
 Enter the following details
