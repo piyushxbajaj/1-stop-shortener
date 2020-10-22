@@ -95,6 +95,8 @@ st.sidebar.image(image, use_column_width=True)
 st.sidebar.markdown('<center> <h1>1Stop Shortener</h1></center>',unsafe_allow_html=True)
 st.sidebar.markdown('<center> Get summaries for your papers, articles, homework etc.</center>',unsafe_allow_html=True)
 st.sidebar.markdown('<center> <h3>Made By Piyush, Aditi and Chaitty</h3></center>',unsafe_allow_html=True)
+st.sidebar.markdown('[this is a text link](https://github.com/piyushxbajaj/1-stop-shortener)',unsafe_allow_html=True)
+
 
 
 
@@ -205,7 +207,7 @@ if url and no_of_sentences and st.button('Summarize Hindu Article'):
     df = pd.DataFrame(data, columns = ['Sentence', 'Score'])
 
     st.table(df)
-    st.info('An application made by PIYUSH ADITI CHAITANYA')
+    st.info('An application made by Piyush and Aditi')
 
 def print_usage():
     # Display the parameters and what they mean.
