@@ -94,8 +94,8 @@ image = Image.open('circle-cropped.png')
 st.sidebar.image(image, use_column_width=True)
 st.sidebar.markdown('<center> <h1>1Stop Shortener</h1></center>',unsafe_allow_html=True)
 st.sidebar.markdown('<center> Get summaries for your papers, articles, homework etc.</center>',unsafe_allow_html=True)
-st.sidebar.markdown('<center> <h3>Made By Piyush  Aditi </h3></center>',unsafe_allow_html=True)
-st.sidebar.markdown('<center>[Github Repo](https://github.com/piyushxbajaj/1-stop-shortener)</center>',unsafe_allow_html=True)
+st.sidebar.markdown('<center> <h3>Made By Piyush and Aditi </h3></center>',unsafe_allow_html=True)
+st.sidebar.markdown('[Github Repo](https://github.com/piyushxbajaj/1-stop-shortener)',unsafe_allow_html=True)
 
 
 
