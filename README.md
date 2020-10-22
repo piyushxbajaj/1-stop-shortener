@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 
 ## Usage
-1. Hindu News Article
+### 1. Hindu News Article
 
 Enter the Hindu News Article Link in the respective input field and number of sentences of summarized text in respective input field.
 
@@ -29,7 +29,7 @@ Link: https://www.thehindu.com/news/national/pm-modi-congratulates-new-zealand-c
 Number of Sentences: 10
 ```
 
-2. Wikipedia Articles
+### 2. Wikipedia Articles
 
 Enter the Wikipedia Article Link in the respective input field and number of words of summarized text in respective input field.
 
@@ -39,13 +39,13 @@ Link: https://en.wikipedia.org/wiki/Python_(programming_language)
 Number of Words : 300
 ```
 
-3. Simple Text Paragraphs
+### 3. Simple Text Paragraphs
 ```
 Text Area: Copy SampleData.txt into that text area
 Number of Sentences: 10
 ```
 
-4. Youtube Videos
+### 4. Youtube Videos
 
 ```
 For Video https://www.youtube.com/watch?v=KR0g-1hnQPA
