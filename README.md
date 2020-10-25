@@ -11,6 +11,7 @@ It uses an ​extractive approach​ and is ​an unsupervised graph​ based te
 
 
 Watch this demo: https://youtu.be/x9w27wqZdO4
+App live at: https://onestopshortener.herokuapp.com/
 
 ## Installation
 
