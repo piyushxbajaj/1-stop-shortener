@@ -9,6 +9,9 @@
 
 It uses an ​extractive approach​ and is ​an unsupervised graph​ based textual content summarization method. It is based on the Page-Rank technique used by search engines like google to provide the top prioritized pages or links to the end -user based on his/her search using this ranking algorithm to calculate the rank of the web-pages.
 
+
+Watch this demo: https://youtu.be/x9w27wqZdO4
+
 ## Installation
 
 Install the requirements from requirements.txt
